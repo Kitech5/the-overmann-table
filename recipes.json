@@ -316,5 +316,78 @@
       "Pour the remaining green enchilada sauce (14 oz) over the rolled tortillas and sprinkle with the remaining 4 oz of Colby Jack cheese.",
       "Bake at 350°F for 20 minutes, until hot and the cheese is melted."
     ]
+  },
+  {
+    "id": "homemade-pancakes",
+    "title": "Homemade Pancakes",
+    "category": "Breakfast & Brunch",
+    "time": 30,
+    "servings": 8,
+    "description": "Fluffy, buttery homemade pancakes with a tender crumb. Keep the batter a little lumpy for the best texture.",
+    "image": "https://images.unsplash.com/photo-1528207776546-365bb710ee93?w=1200&auto=format&fit=crop&q=85",
+    "ingredients": [
+      {
+        "amount": 3,
+        "unit": "cups",
+        "name": "all-purpose flour"
+      },
+      {
+        "amount": 0.25,
+        "unit": "cup",
+        "name": "sugar"
+      },
+      {
+        "amount": 1.5,
+        "unit": "tsp",
+        "name": "salt"
+      },
+      {
+        "amount": 1,
+        "unit": "tbsp",
+        "name": "baking powder"
+      },
+      {
+        "amount": 1.5,
+        "unit": "tsp",
+        "name": "baking soda"
+      },
+      {
+        "amount": 2.25,
+        "unit": "cups",
+        "name": "milk"
+      },
+      {
+        "amount": 0.25,
+        "unit": "cup",
+        "name": "oil"
+      },
+      {
+        "amount": 1,
+        "unit": "tbsp",
+        "name": "vanilla extract"
+      },
+      {
+        "amount": 0.25,
+        "unit": "cup",
+        "name": "apple cider vinegar"
+      },
+      {
+        "amount": 3,
+        "unit": "",
+        "name": "eggs"
+      },
+      {
+        "amount": 1,
+        "unit": "as needed",
+        "name": "butter, for the skillet"
+      }
+    ],
+    "steps": [
+      "In a large bowl, whisk together the flour, sugar, salt, baking powder, and baking soda.",
+      "In a separate bowl, mix the milk, oil, vanilla, apple cider vinegar, and eggs.",
+      "Pour the wet ingredients into the dry ingredients and fold together gently. Do not overmix; the batter should remain a little lumpy.",
+      "Heat a skillet over medium heat and add butter. Pour in portions of batter and gently move each pancake around to soak up some of the melted butter.",
+      "Cook until bubbles form and the edges begin to set, then flip and cook the other side until golden and cooked through. Repeat with remaining batter, adding more butter as needed."
+    ]
   }
 ]
