@@ -1,0 +1,209 @@
+[
+  {
+    "id": "creamy-corn-chicken-chili",
+    "title": "Creamy Roasted Corn Chicken Chili",
+    "category": "Soups & Chili",
+    "time": 50,
+    "servings": 6,
+    "description": "A rich, cozy white chicken chili with sweet roasted corn.",
+    "image": "https://images.unsplash.com/photo-1547592180-85f173990554?w=1200&auto=format&fit=crop&q=85",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": "tbsp",
+        "name": "olive oil"
+      },
+      {
+        "amount": 1,
+        "unit": "medium",
+        "name": "onion, diced"
+      },
+      {
+        "amount": 3,
+        "unit": "cloves",
+        "name": "garlic, minced"
+      },
+      {
+        "amount": 2,
+        "unit": "cups",
+        "name": "cooked shredded chicken"
+      },
+      {
+        "amount": 2,
+        "unit": "cups",
+        "name": "roasted corn"
+      },
+      {
+        "amount": 2,
+        "unit": "cans (15 oz)",
+        "name": "white beans, drained"
+      },
+      {
+        "amount": 3,
+        "unit": "cups",
+        "name": "chicken broth"
+      },
+      {
+        "amount": 4,
+        "unit": "oz",
+        "name": "cream cheese"
+      },
+      {
+        "amount": 0.5,
+        "unit": "cup",
+        "name": "heavy cream"
+      },
+      {
+        "amount": 1,
+        "unit": "tsp",
+        "name": "ground cumin"
+      }
+    ],
+    "steps": [
+      "Warm the olive oil in a large pot. Cook onion until softened, about 5 minutes; add garlic for 30 seconds.",
+      "Stir in chicken, roasted corn, beans, broth, and cumin. Simmer for 20 minutes.",
+      "Reduce heat. Stir in cream cheese until melted, then add heavy cream.",
+      "Season to taste and serve with your favorite toppings."
+    ],
+    "demo": true
+  },
+  {
+    "id": "garlic-parmesan-pasta",
+    "title": "Garlic Parmesan Pasta",
+    "category": "Dinner",
+    "time": 25,
+    "servings": 4,
+    "description": "Silky, garlicky pasta for a weeknight dinner.",
+    "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?w=1200&auto=format&fit=crop&q=85",
+    "ingredients": [
+      {
+        "amount": 12,
+        "unit": "oz",
+        "name": "spaghetti"
+      },
+      {
+        "amount": 3,
+        "unit": "tbsp",
+        "name": "butter"
+      },
+      {
+        "amount": 3,
+        "unit": "cloves",
+        "name": "garlic, minced"
+      },
+      {
+        "amount": 0.75,
+        "unit": "cup",
+        "name": "grated Parmesan"
+      },
+      {
+        "amount": 0.5,
+        "unit": "cup",
+        "name": "reserved pasta water"
+      },
+      {
+        "amount": 1,
+        "unit": "pinch",
+        "name": "salt and black pepper"
+      }
+    ],
+    "steps": [
+      "Cook pasta in salted water; reserve some cooking water before draining.",
+      "Melt butter in a skillet and gently cook garlic until fragrant.",
+      "Toss pasta with butter, Parmesan, and enough pasta water to create a glossy sauce.",
+      "Season to taste and serve immediately."
+    ],
+    "demo": true
+  },
+  {
+    "id": "simple-sourdough",
+    "title": "Simple Sourdough Loaf",
+    "category": "Breads",
+    "time": 1440,
+    "servings": 12,
+    "description": "A crusty loaf with a tender, chewy center.",
+    "image": "https://images.unsplash.com/photo-1585478259715-876acc5be8eb?w=1200&auto=format&fit=crop&q=85",
+    "ingredients": [
+      {
+        "amount": 500,
+        "unit": "g",
+        "name": "bread flour"
+      },
+      {
+        "amount": 350,
+        "unit": "g",
+        "name": "water"
+      },
+      {
+        "amount": 100,
+        "unit": "g",
+        "name": "active sourdough starter"
+      },
+      {
+        "amount": 10,
+        "unit": "g",
+        "name": "salt"
+      }
+    ],
+    "steps": [
+      "Mix ingredients into a shaggy dough and rest for 30 minutes.",
+      "Perform four sets of stretch-and-folds, 30 minutes apart.",
+      "Let rise until airy, shape, and refrigerate overnight.",
+      "Bake in a preheated covered Dutch oven at 450\u00b0F for 20 minutes, then uncovered for 20\u201325 minutes."
+    ],
+    "demo": true
+  },
+  {
+    "id": "fudgy-brownies",
+    "title": "Fudgy Chocolate Brownies",
+    "category": "Desserts",
+    "time": 45,
+    "servings": 9,
+    "description": "Deep chocolate flavor with soft, fudgy centers.",
+    "image": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?w=1200&auto=format&fit=crop&q=85",
+    "ingredients": [
+      {
+        "amount": 0.5,
+        "unit": "cup",
+        "name": "butter, melted"
+      },
+      {
+        "amount": 1,
+        "unit": "cup",
+        "name": "sugar"
+      },
+      {
+        "amount": 2,
+        "unit": "",
+        "name": "eggs"
+      },
+      {
+        "amount": 1,
+        "unit": "tsp",
+        "name": "vanilla extract"
+      },
+      {
+        "amount": 0.5,
+        "unit": "cup",
+        "name": "cocoa powder"
+      },
+      {
+        "amount": 0.5,
+        "unit": "cup",
+        "name": "all-purpose flour"
+      },
+      {
+        "amount": 0.25,
+        "unit": "tsp",
+        "name": "salt"
+      }
+    ],
+    "steps": [
+      "Preheat oven to 350\u00b0F and line an 8-inch pan with parchment.",
+      "Whisk melted butter, sugar, eggs, and vanilla.",
+      "Fold in cocoa, flour, and salt until just combined.",
+      "Bake for 22\u201328 minutes. Cool before slicing."
+    ],
+    "demo": true
+  }
+]

@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#fafaf8"><meta name="description" content="The Overmann Table — a place for every recipe.">
+<title>The Overmann Table — A Place for Every Recipe</title><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css"></head><body>
+<header class="site-header"><div class="wrap header-inner"><a class="brand" href="#" aria-label="The Overmann Table home">the overmann table<span>.</span></a><nav aria-label="Main navigation"><a href="#recipes">Recipes</a><a href="#about">About</a></nav><a class="header-search" href="#recipes" aria-label="Search recipes">⌕</a></div></header>
+<main><section class="hero wrap"><div class="hero-photo" role="img" aria-label="Freshly prepared pasta on a plate"></div><div class="hero-copy"><div class="eyebrow">WELCOME TO THE OVERMANN TABLE</div><h1>Good food.<br><em>Worth sharing.</em></h1><p>A growing collection of everyday favorites, comforting classics, and recipes worth making again.</p><a class="button" href="#recipes">Explore recipes <span>↗</span></a></div></section>
+<section class="intro wrap"><span>THE RECIPE COLLECTION</span><p>Find something delicious for tonight, or save a favorite for another day.</p></section>
+<section class="wrap collection" id="recipes"><div class="section-top"><div><div class="eyebrow">FIND YOUR NEXT FAVORITE</div><h2>Explore recipes<span class="period">.</span></h2></div><div id="count" class="count"></div></div>
+<div class="controls"><label class="searchbox"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Search recipes or ingredients…" aria-label="Search recipes or ingredients"></label><div id="filters" class="filters" aria-label="Filter by category"></div></div>
+<div id="grid" class="recipe-grid"></div><p id="empty" class="empty" hidden>No recipes found. Try another search or category.</p></section>
+<section class="about" id="about"><div class="wrap about-inner"><div><div class="eyebrow">A PLACE FOR EVERY RECIPE</div><h2>Pull up a chair.</h2></div><p>The Overmann Table is a home for the dishes we keep coming back to. No fuss, no endless scrolling—just good recipes, thoughtfully organized and easy to cook.</p></div></section></main>
+<footer class="wrap footer"><div class="brand">the overmann table<span>.</span></div><span>Made to be shared. © <span id="year"></span></span></footer>
+<dialog id="recipeDialog" aria-label="Recipe details"><button class="close" id="closeDialog" aria-label="Close recipe">×</button><div id="detail"></div></dialog>
+<script src="script.js" defer></script></body></html>
