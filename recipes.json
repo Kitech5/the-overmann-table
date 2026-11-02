@@ -701,5 +701,75 @@
       "Bake at 375°F for about 30 minutes. If assembled ahead and refrigerated, bake about 45 minutes, until heated through.",
       "Let stand for 10 minutes before slicing and serving."
     ]
+  },
+  {
+    "id": "creamy-tomato-soup",
+    "title": "Creamy Tomato Soup",
+    "category": "Soups & Stews",
+    "time": 35,
+    "servings": 6,
+    "description": "A rich, silky tomato soup made with San Marzano tomatoes, sautéed onion and garlic, dried basil, heavy cream, and Parmesan. Blend smooth and season to taste.",
+    "image": "https://images.unsplash.com/photo-1547592180-85f173990554?w=1200&auto=format&fit=crop&q=85",
+    "ingredients": [
+      {
+        "amount": 4,
+        "unit": "tbsp",
+        "name": "butter"
+      },
+      {
+        "amount": 1,
+        "unit": "",
+        "name": "yellow onion, finely chopped or grated"
+      },
+      {
+        "amount": 3,
+        "unit": "cloves",
+        "name": "garlic, minced"
+      },
+      {
+        "amount": 56,
+        "unit": "oz",
+        "name": "canned San Marzano tomatoes"
+      },
+      {
+        "amount": 2,
+        "unit": "cups",
+        "name": "chicken broth"
+      },
+      {
+        "amount": 1,
+        "unit": "tbsp",
+        "name": "dried basil"
+      },
+      {
+        "amount": 1,
+        "unit": "tbsp",
+        "name": "sugar, plus more to taste"
+      },
+      {
+        "amount": 1,
+        "unit": "to taste",
+        "name": "salt and black pepper"
+      },
+      {
+        "amount": 0.5,
+        "unit": "cup",
+        "name": "heavy whipping cream"
+      },
+      {
+        "amount": 0.5,
+        "unit": "cup",
+        "name": "shredded Parmesan cheese"
+      }
+    ],
+    "steps": [
+      "In a large pot over medium heat, melt the butter. Add the finely chopped or grated onion and sauté for 10 minutes.",
+      "Add the garlic and cook for another minute.",
+      "Stir in the San Marzano tomatoes, chicken broth, dried basil, sugar, salt, and pepper. Bring to a boil.",
+      "Reduce the heat and simmer for 10 minutes, partially covered.",
+      "Blend the soup until smooth using an immersion blender, or carefully blend in batches with a traditional blender, allowing steam to escape.",
+      "Return to low heat if needed. Stir in the heavy whipping cream and shredded Parmesan until the cheese melts and the soup is creamy.",
+      "Taste and adjust the salt, pepper, and sugar as desired. Serve warm."
+    ]
   }
 ]
