@@ -604,5 +604,102 @@
       "Stir the shredded chicken back into the slow cooker. Keep on WARM until ready to serve.",
       "Serve over cooked rice or a baked potato."
     ]
+  },
+  {
+    "id": "homemade-lasagna",
+    "title": "Homemade Lasagna",
+    "category": "Dinner",
+    "time": 100,
+    "servings": 8,
+    "description": "A classic layered lasagna with a rich beef-and-Italian-sausage tomato sauce, creamy ricotta filling, and shredded mozzarella. Baked in a 9×13-inch dish; serves 8–10.",
+    "image": "https://images.unsplash.com/photo-1574894709920-11b28e7367e3?w=1200&auto=format&fit=crop&q=85",
+    "ingredients": [
+      {
+        "amount": 0.5,
+        "unit": "lb",
+        "name": "ground beef"
+      },
+      {
+        "amount": 0.5,
+        "unit": "lb",
+        "name": "Italian sausage"
+      },
+      {
+        "amount": 3,
+        "unit": "cloves",
+        "name": "garlic, minced"
+      },
+      {
+        "amount": 1,
+        "unit": "tbsp",
+        "name": "dried basil"
+      },
+      {
+        "amount": 1.5,
+        "unit": "tsp",
+        "name": "salt (for meat sauce)"
+      },
+      {
+        "amount": 1,
+        "unit": "lb can",
+        "name": "tomatoes"
+      },
+      {
+        "amount": 2,
+        "unit": "6-oz cans",
+        "name": "tomato paste"
+      },
+      {
+        "amount": 10,
+        "unit": "oz",
+        "name": "lasagna noodles"
+      },
+      {
+        "amount": 2,
+        "unit": "",
+        "name": "eggs"
+      },
+      {
+        "amount": 3,
+        "unit": "cups",
+        "name": "ricotta cheese (no cottage cheese)"
+      },
+      {
+        "amount": 0.5,
+        "unit": "cup",
+        "name": "grated Parmesan or Romano cheese"
+      },
+      {
+        "amount": 2,
+        "unit": "tbsp",
+        "name": "dried parsley flakes"
+      },
+      {
+        "amount": 1,
+        "unit": "tsp",
+        "name": "salt (for ricotta filling)"
+      },
+      {
+        "amount": 0.5,
+        "unit": "tsp",
+        "name": "black pepper"
+      },
+      {
+        "amount": 16,
+        "unit": "oz",
+        "name": "shredded mozzarella cheese"
+      }
+    ],
+    "steps": [
+      "Preheat oven to 375°F.",
+      "In a large skillet or pot, slowly brown the ground beef and Italian sausage. Spoon off excess fat.",
+      "Add the minced garlic, dried basil, 1½ teaspoons salt, tomatoes, and tomato paste. Simmer uncovered for 30 minutes, stirring occasionally.",
+      "Meanwhile, cook the lasagna noodles in plenty of boiling salted water until tender. Drain and rinse.",
+      "Beat the eggs in a bowl. Mix in the ricotta, Parmesan or Romano, parsley flakes, 1 teaspoon salt, and black pepper.",
+      "In a 13×9×2-inch baking dish, layer half the noodles, half the ricotta filling, half the shredded mozzarella, and half the meat sauce.",
+      "Repeat the layers with the remaining noodles, ricotta filling, mozzarella, and meat sauce.",
+      "Bake at 375°F for about 30 minutes. If assembled ahead and refrigerated, bake about 45 minutes, until heated through.",
+      "Let stand for 10 minutes before slicing and serving."
+    ]
   }
 ]
