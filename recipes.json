@@ -1,5 +1,57 @@
 [
   {
+    "id": "taco-dip",
+    "title": "Taco Dip",
+    "category": "Appetizers",
+    "time": 25,
+    "servings": 8,
+    "description": "A creamy, cheesy taco dip with seasoned ground beef, Fiesta Ranch, and Rotel. Serve chilled with tortilla chips.",
+    "image": "https://images.unsplash.com/photo-1551504734-5ee1c4a1479b?w=1200&auto=format&fit=crop&q=85",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": "lb",
+        "name": "ground beef"
+      },
+      {
+        "amount": 16,
+        "unit": "oz",
+        "name": "sour cream"
+      },
+      {
+        "amount": 1,
+        "unit": "packet",
+        "name": "Fiesta Ranch seasoning mix"
+      },
+      {
+        "amount": 1,
+        "unit": "can",
+        "name": "Rotel diced tomatoes and green chilies"
+      },
+      {
+        "amount": 8,
+        "unit": "oz",
+        "name": "shredded cheddar cheese"
+      },
+      {
+        "amount": 1,
+        "unit": "to taste",
+        "name": "salt"
+      },
+      {
+        "amount": 1,
+        "unit": "to taste",
+        "name": "black pepper"
+      }
+    ],
+    "steps": [
+      "Brown the ground beef in a skillet over medium heat, seasoning with salt and black pepper to taste. Drain excess grease.",
+      "In a large bowl, combine sour cream, Fiesta Ranch seasoning mix, Rotel, and shredded cheddar cheese.",
+      "Add the cooked ground beef and mix until everything is evenly combined.",
+      "Refrigerate until ready to serve. Serve chilled with tortilla chips."
+    ]
+  },
+  {
     "id": "creamy-corn-chicken-chili",
     "title": "Creamy Roasted Corn Chicken Chili",
     "category": "Soups & Chili",
@@ -149,7 +201,7 @@
       "Mix ingredients into a shaggy dough and rest for 30 minutes.",
       "Perform four sets of stretch-and-folds, 30 minutes apart.",
       "Let rise until airy, shape, and refrigerate overnight.",
-      "Bake in a preheated covered Dutch oven at 450\u00b0F for 20 minutes, then uncovered for 20\u201325 minutes."
+      "Bake in a preheated covered Dutch oven at 450°F for 20 minutes, then uncovered for 20–25 minutes."
     ],
     "demo": true
   },
@@ -199,10 +251,10 @@
       }
     ],
     "steps": [
-      "Preheat oven to 350\u00b0F and line an 8-inch pan with parchment.",
+      "Preheat oven to 350°F and line an 8-inch pan with parchment.",
       "Whisk melted butter, sugar, eggs, and vanilla.",
       "Fold in cocoa, flour, and salt until just combined.",
-      "Bake for 22\u201328 minutes. Cool before slicing."
+      "Bake for 22–28 minutes. Cool before slicing."
     ],
     "demo": true
   }
