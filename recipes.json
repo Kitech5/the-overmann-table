@@ -50,5 +50,84 @@
       "Add the cooked ground beef and mix until everything is evenly combined.",
       "Refrigerate until ready to serve. Serve chilled with tortilla chips."
     ]
+  },
+  {
+    "id": "baked-bacon-mac-and-cheese",
+    "title": "Baked Bacon Mac & Cheese",
+    "category": "Dinner",
+    "time": 75,
+    "servings": 10,
+    "description": "Extra-creamy baked cheddar mac and cheese with a full pound of bacon, a silky sodium-citrate cheese sauce, and a golden cheesy topping.",
+    "image": "https://images.unsplash.com/photo-1543339494-b4cd4f7ba686?w=1200&auto=format&fit=crop&q=85",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": "lb",
+        "name": "elbow pasta"
+      },
+      {
+        "amount": 2,
+        "unit": "cups",
+        "name": "chicken broth"
+      },
+      {
+        "amount": 2,
+        "unit": "tsp",
+        "name": "sodium citrate"
+      },
+      {
+        "amount": 1.5,
+        "unit": "lb",
+        "name": "shredded cheddar cheese, divided (1 lb for sauce; ½ lb for topping)"
+      },
+      {
+        "amount": 1,
+        "unit": "to 2 cups",
+        "name": "heavy cream, as needed for sauce consistency"
+      },
+      {
+        "amount": 1,
+        "unit": "lb",
+        "name": "bacon, cooked and chopped (reserve grease)"
+      },
+      {
+        "amount": 2,
+        "unit": "tbsp",
+        "name": "reserved bacon grease"
+      },
+      {
+        "amount": 3,
+        "unit": "tbsp",
+        "name": "butter"
+      },
+      {
+        "amount": 1,
+        "unit": "to taste",
+        "name": "salt"
+      },
+      {
+        "amount": 1,
+        "unit": "to taste",
+        "name": "black pepper"
+      },
+      {
+        "amount": 1,
+        "unit": "to taste",
+        "name": "garlic powder"
+      },
+      {
+        "amount": 1,
+        "unit": "to taste",
+        "name": "paprika"
+      }
+    ],
+    "steps": [
+      "Preheat the oven to 375°F. Cook the elbow pasta in salted water until about 2–3 minutes shy of fully cooked; drain.",
+      "In a saucepan, bring the chicken broth to a low simmer. Stir in the sodium citrate, then gradually add 1 lb of the shredded cheddar, stirring until melted and smooth.",
+      "Gradually add 1–2 cups of heavy cream to moderate the temperature and thin the sauce. Stir in 2 tablespoons of reserved bacon grease and all 3 tablespoons of butter. Aim for a sauce slightly thinner than nacho cheese; it will thicken in the oven.",
+      "Combine the pasta, cheese sauce, and chopped cooked bacon. Fold gently and season to taste with salt, black pepper, garlic powder, and paprika.",
+      "Transfer to a casserole dish and top with the remaining ½ lb of shredded cheddar.",
+      "Bake at 375°F for about 45 minutes, until heated through and bubbly."
+    ]
   }
 ]
