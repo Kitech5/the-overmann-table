@@ -263,5 +263,58 @@
       "Stir in the heavy whipping cream, shredded Parmesan, and cooked potato gnocchi. Keep at a gentle simmer for another 15 minutes, stirring occasionally, until the soup starts to thicken.",
       "Stir in the roughly chopped spinach and cook for another 10 minutes. Taste and adjust salt and other seasonings before serving."
     ]
+  },
+  {
+    "id": "gringo-chicken-enchiladas",
+    "title": "Gringo Chicken Enchiladas",
+    "category": "Dinner",
+    "time": 40,
+    "servings": 10,
+    "description": "Creamy, cheesy chicken-filled flour tortillas baked with green enchilada sauce and Colby Jack. A cozy, Midwest-style take on enchiladas.",
+    "image": "https://images.unsplash.com/photo-1534352956036-cd81e27dd615?w=1200&auto=format&fit=crop&q=85",
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": "",
+        "name": "chicken breasts, cooked and shredded"
+      },
+      {
+        "amount": 28,
+        "unit": "oz",
+        "name": "green enchilada sauce, divided"
+      },
+      {
+        "amount": 1,
+        "unit": "can",
+        "name": "cream of chicken soup"
+      },
+      {
+        "amount": 0.5,
+        "unit": "packet",
+        "name": "taco seasoning"
+      },
+      {
+        "amount": 8,
+        "unit": "oz",
+        "name": "shredded Colby Jack cheese, divided"
+      },
+      {
+        "amount": 10,
+        "unit": "",
+        "name": "flour tortillas"
+      },
+      {
+        "amount": 1,
+        "unit": "as needed",
+        "name": "cooking spray or oil, for greasing casserole dish"
+      }
+    ],
+    "steps": [
+      "Preheat the oven to 350°F and lightly grease a casserole dish.",
+      "In a large bowl, mix the cooked shredded chicken with half of the green enchilada sauce (14 oz), the cream of chicken soup, half a packet of taco seasoning, and half of the shredded Colby Jack cheese (4 oz).",
+      "Divide the filling among the flour tortillas. Roll each tortilla and arrange seam-side down in the prepared casserole dish.",
+      "Pour the remaining green enchilada sauce (14 oz) over the rolled tortillas and sprinkle with the remaining 4 oz of Colby Jack cheese.",
+      "Bake at 350°F for 20 minutes, until hot and the cheese is melted."
+    ]
   }
 ]
