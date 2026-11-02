@@ -389,5 +389,65 @@
       "Heat a skillet over medium heat and add butter. Pour in portions of batter and gently move each pancake around to soak up some of the melted butter.",
       "Cook until bubbles form and the edges begin to set, then flip and cook the other side until golden and cooked through. Repeat with remaining batter, adding more butter as needed."
     ]
+  },
+  {
+    "id": "grandpas-waffles",
+    "title": "Grandpa's Waffles",
+    "category": "Breakfast & Brunch",
+    "time": 30,
+    "servings": 6,
+    "description": "Light, fluffy homemade waffles with whipped egg whites folded into the batter. The recipe calls for 2 tablespoons of sugar, but Grandpa may have snuck in a little more.",
+    "image": "https://images.unsplash.com/photo-1562376552-0d160a2f238d?w=1200&auto=format&fit=crop&q=85",
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": "cups",
+        "name": "all-purpose flour"
+      },
+      {
+        "amount": 1,
+        "unit": "tbsp",
+        "name": "baking powder"
+      },
+      {
+        "amount": 2,
+        "unit": "tbsp",
+        "name": "sugar (Grandpa may have added extra!)"
+      },
+      {
+        "amount": 0.5,
+        "unit": "tsp",
+        "name": "salt"
+      },
+      {
+        "amount": 2,
+        "unit": "",
+        "name": "eggs, separated"
+      },
+      {
+        "amount": 1.6666666666666665,
+        "unit": "cups",
+        "name": "milk"
+      },
+      {
+        "amount": 0.3333333333333333,
+        "unit": "cup",
+        "name": "butter, melted"
+      },
+      {
+        "amount": 1,
+        "unit": "tsp",
+        "name": "vanilla extract"
+      }
+    ],
+    "steps": [
+      "Preheat your waffle iron according to the manufacturer's instructions.",
+      "In a large bowl, whisk together the flour, baking powder, sugar, and salt.",
+      "Separate the eggs. In a small mixing bowl, combine the egg yolks, milk, melted butter, and vanilla.",
+      "Using a mixer, beat the egg whites in a separate clean bowl until stiff peaks form.",
+      "Pour the milk mixture into the dry ingredients and stir just until combined.",
+      "Gently fold the beaten egg whites into the batter. Do not overmix or the whites will deflate; it's okay if some streaks of egg white remain visible.",
+      "Cook the batter in the preheated waffle iron according to its instructions, until the waffles are golden and cooked through."
+    ]
   }
 ]
