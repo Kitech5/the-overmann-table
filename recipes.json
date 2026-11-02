@@ -556,5 +556,53 @@
       "Layer the shredded low-moisture mozzarella over the crust, followed by your pizza toppings. Spread all of the prepared sauce on top and finish with another sprinkle of Parmesan.",
       "Bake for 35–40 minutes. Let the pizza cool in the skillet for 15 minutes before cutting into 4 generous slices."
     ]
+  },
+  {
+    "id": "chicken-stuff",
+    "title": "Chicken Stuff",
+    "category": "Dinner",
+    "time": 300,
+    "servings": 4,
+    "description": "An easy slow-cooker chicken with salsa, black beans, and corn. Serve it over rice or a baked potato. Shred the chicken to your desired shredness—or until your back hurts.",
+    "image": "https://images.unsplash.com/photo-1547592180-85f173990554?w=1200&auto=format&fit=crop&q=85",
+    "ingredients": [
+      {
+        "amount": 4,
+        "unit": "",
+        "name": "chicken breasts"
+      },
+      {
+        "amount": 16,
+        "unit": "oz",
+        "name": "jar of salsa"
+      },
+      {
+        "amount": 1,
+        "unit": "can",
+        "name": "black beans, rinsed and drained"
+      },
+      {
+        "amount": 1,
+        "unit": "can",
+        "name": "corn, drained (or equivalent frozen corn)"
+      },
+      {
+        "amount": 2,
+        "unit": "cups",
+        "name": "chicken broth"
+      },
+      {
+        "amount": 1,
+        "unit": "for serving",
+        "name": "cooked rice or baked potatoes (optional)"
+      }
+    ],
+    "steps": [
+      "Add the chicken breasts, salsa, rinsed and drained black beans, drained corn (or frozen corn), and chicken broth to the slow cooker.",
+      "Cover and cook on LOW for 4–5 hours, until the chicken is cooked through and reaches 165°F in the thickest part.",
+      "Shred the chicken with two forks or whatever works best, until it reaches your desired shredness—or your back hurts.",
+      "Stir the shredded chicken back into the slow cooker. Keep on WARM until ready to serve.",
+      "Serve over cooked rice or a baked potato."
+    ]
   }
 ]
