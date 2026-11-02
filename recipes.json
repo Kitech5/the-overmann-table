@@ -176,5 +176,92 @@
       "Remove the pan from the heat as needed to keep it from overheating or scrambling the eggs. Continue stirring until the sauce is smooth and slightly thickened.",
       "Season with salt and black pepper to taste. Serve promptly."
     ]
+  },
+  {
+    "id": "chicken-gnocchi-soup",
+    "title": "Chicken Gnocchi Soup",
+    "category": "Soups & Chili",
+    "time": 60,
+    "servings": 8,
+    "description": "Rich and creamy chicken gnocchi soup with tender vegetables, Parmesan, spinach, and pillowy potato gnocchi.",
+    "image": "https://images.unsplash.com/photo-1547592180-85f173990554?w=1200&auto=format&fit=crop&q=85",
+    "ingredients": [
+      {
+        "amount": 1,
+        "unit": "medium",
+        "name": "onion, diced"
+      },
+      {
+        "amount": 1,
+        "unit": "cup",
+        "name": "matchstick carrots"
+      },
+      {
+        "amount": 3,
+        "unit": "to 4 stalks",
+        "name": "celery, diced"
+      },
+      {
+        "amount": 2,
+        "unit": "to 4 cloves",
+        "name": "garlic, minced"
+      },
+      {
+        "amount": 2,
+        "unit": "",
+        "name": "chicken breasts, cooked and diced or shredded"
+      },
+      {
+        "amount": 2,
+        "unit": "tsp",
+        "name": "garlic powder"
+      },
+      {
+        "amount": 2,
+        "unit": "tsp",
+        "name": "black pepper, plus more to taste"
+      },
+      {
+        "amount": 2,
+        "unit": "tsp",
+        "name": "Italian seasoning"
+      },
+      {
+        "amount": 1,
+        "unit": "quart",
+        "name": "heavy whipping cream"
+      },
+      {
+        "amount": 4,
+        "unit": "cups",
+        "name": "chicken broth"
+      },
+      {
+        "amount": 1,
+        "unit": "to 1.5 cups",
+        "name": "shredded Parmesan cheese"
+      },
+      {
+        "amount": 32,
+        "unit": "oz",
+        "name": "potato gnocchi, cooked according to package directions"
+      },
+      {
+        "amount": 2,
+        "unit": "cups",
+        "name": "spinach, roughly chopped"
+      },
+      {
+        "amount": 1,
+        "unit": "to taste",
+        "name": "salt"
+      }
+    ],
+    "steps": [
+      "In a large pot over medium heat, sauté the diced onion, matchstick carrots, and celery with a little salt and pepper for about 8 minutes, until beginning to soften. Add the minced garlic and cook for 1 minute more.",
+      "Add the cooked chicken, garlic powder, black pepper, and Italian seasoning. Pour in the chicken broth and simmer for 10 minutes.",
+      "Stir in the heavy whipping cream, shredded Parmesan, and cooked potato gnocchi. Keep at a gentle simmer for another 15 minutes, stirring occasionally, until the soup starts to thicken.",
+      "Stir in the roughly chopped spinach and cook for another 10 minutes. Taste and adjust salt and other seasonings before serving."
+    ]
   }
 ]
