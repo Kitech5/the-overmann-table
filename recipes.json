@@ -449,5 +449,112 @@
       "Gently fold the beaten egg whites into the batter. Do not overmix or the whites will deflate; it's okay if some streaks of egg white remain visible.",
       "Cook the batter in the preheated waffle iron according to its instructions, until the waffles are golden and cooked through."
     ]
+  },
+  {
+    "id": "cast-iron-deep-dish-pizza",
+    "title": "Cast Iron Deep Dish Pizza",
+    "category": "Dinner",
+    "time": 210,
+    "servings": 4,
+    "description": "A hearty Chicago-style deep-dish pizza baked in a 12-inch cast iron skillet, with a buttery Parmesan-coated crust, plenty of mozzarella, your favorite toppings, and a full batch of homemade tomato sauce. Makes one pizza, cut into four generous slices.",
+    "image": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?w=1200&auto=format&fit=crop&q=85",
+    "ingredients": [
+      {
+        "amount": 2,
+        "unit": "cups",
+        "name": "all-purpose flour (crust)"
+      },
+      {
+        "amount": 1,
+        "unit": "tsp",
+        "name": "salt (crust)"
+      },
+      {
+        "amount": 0.5,
+        "unit": "tsp",
+        "name": "instant yeast (crust)"
+      },
+      {
+        "amount": 0.3333333333333333,
+        "unit": "cup",
+        "name": "oil (crust)"
+      },
+      {
+        "amount": 0.5,
+        "unit": "cup",
+        "name": "warm water (crust)"
+      },
+      {
+        "amount": 2,
+        "unit": "tbsp",
+        "name": "butter (sauce)"
+      },
+      {
+        "amount": 0.3333333333333333,
+        "unit": "cup",
+        "name": "finely diced onion (sauce)"
+      },
+      {
+        "amount": 1,
+        "unit": "tsp",
+        "name": "salt (sauce)"
+      },
+      {
+        "amount": 1,
+        "unit": "tsp",
+        "name": "dried oregano (sauce)"
+      },
+      {
+        "amount": 1,
+        "unit": "tsp",
+        "name": "crushed red pepper (sauce)"
+      },
+      {
+        "amount": 3,
+        "unit": "cloves",
+        "name": "garlic, minced (sauce)"
+      },
+      {
+        "amount": 28,
+        "unit": "oz",
+        "name": "crushed tomatoes, preferably Cento San Marzano (sauce)"
+      },
+      {
+        "amount": 0.5,
+        "unit": "tsp",
+        "name": "sugar (sauce)"
+      },
+      {
+        "amount": 0.5,
+        "unit": "stick",
+        "name": "butter, softened (for skillet)"
+      },
+      {
+        "amount": 1,
+        "unit": "to taste",
+        "name": "Parmesan cheese (for skillet and topping)"
+      },
+      {
+        "amount": 1,
+        "unit": "lb",
+        "name": "low-moisture mozzarella, shredded"
+      },
+      {
+        "amount": 1,
+        "unit": "as desired",
+        "name": "pizza toppings of choice"
+      }
+    ],
+    "steps": [
+      "CRUST — In a bowl, mix the flour, salt, and instant yeast. Add the oil and mix until crumbly, then add the warm water.",
+      "Knead the dough for 5 minutes. Place in a covered bowl and rest for 5 minutes. Knead for another 5 minutes, form into a ball, cover, and let rise for 2 hours.",
+      "SAUCE — Melt 2 tablespoons of butter in a small pot. Add the finely diced onion, salt, oregano, and crushed red pepper. Cook for about 5 minutes.",
+      "Add the minced garlic and cook for another minute. Stir in the entire 28-ounce can of crushed tomatoes and the sugar. Reduce heat to medium-low and simmer for 45 minutes, covering if the sauce splatters.",
+      "ASSEMBLY — Preheat the oven to 425°F. Roll the dough into a circle about 14 inches across.",
+      "Spread the softened half-stick of butter around the inside of a 12-inch cast iron skillet, then sprinkle Parmesan over the butter.",
+      "Press the dough into the skillet, bringing it up the sides, and trim off any excess dough.",
+      "Layer the shredded low-moisture mozzarella over the crust, followed by your pizza toppings. Spread all of the prepared sauce on top and finish with another sprinkle of Parmesan.",
+      "Bake for 35–40 minutes. Let the pizza cool in the skillet for 15 minutes before cutting into 4 generous slices."
+    ]
   }
 ]
